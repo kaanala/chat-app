@@ -1,2 +1,2 @@
 # chat-app
-Basic chat app with node.js and and socket.io
+Basic chat app with node.js and socket.io
