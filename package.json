@@ -1,0 +1,22 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Basic chat app with node.js and and socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kampl/chat-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kampl/chat-app/issues"
+  },
+  "homepage": "https://github.com/kampl/chat-app#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
